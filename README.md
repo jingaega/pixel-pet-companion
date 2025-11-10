@@ -16,4 +16,6 @@ flutter run
 ```
 or use emulator
 
+![Alt text](/relative/path/to/img.png?raw=true "Screenshot")
+
 
