@@ -2,20 +2,20 @@
 
 An experimental tiny pixel pet you can feed, pet, play with, and put to sleep. 
 
-## Highlights
+## 🚀 Highlights
 - Modular **feature-first** foldering: `core/`, `features/pet/`, `theme/`
 - `PetController` with Provider (`ChangeNotifier`) for state
 - `LocalStore` for persistence, `TickerService` for time-based updates
 - Pixel sprite built with `CustomPaint` — **no image assets**
 - Clear separation of **model / state / view / widgets**
 
-## Run
+## 🛠️ Run
 ```bash
 flutter pub get
 flutter run
 ```
 or use emulator
 
-![Alt text](/relative/path/to/img.png?raw=true "Screenshot")
+## 📸 Preview
 
-
+![alt text](https://github.com/jingaega/pixel-pet-companion/master/img.png?raw=true)<br/>
