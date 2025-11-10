@@ -18,4 +18,4 @@ or use emulator
 
 ## 📸 Preview
 
-![alt text](https://github.com/jingaega/pixel-pet-companion/master/img.png?raw=true)<br/>
+![alt text](https://github.com/jingaega/pixel-pet-companion/blob/master/img.png?raw=true)<br/>
